@@ -1,0 +1,7 @@
+﻿  Assembling Mul.asm...
+Mul.obj : error LNK2019: unresolved external symbol printf referenced in function mainCRTStartup
+Mul.obj : error LNK2019: unresolved external symbol strlen referenced in function pad_with_zeros
+Mul.obj : error LNK2019: unresolved external symbol malloc referenced in function subf
+Mul.obj : error LNK2019: unresolved external symbol free referenced in function subf
+Mul.obj : error LNK2019: unresolved external symbol sprintf_s referenced in function cvti2s
+D:\Assembly Project\Mul\x64\Debug\Mul.exe : fatal error LNK1120: 5 unresolved externals
